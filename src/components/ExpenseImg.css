@@ -1,0 +1,15 @@
+.expense-img {
+    /* display: flex;
+    flex-direction: column;
+    width: 5.5rem;
+    height: 5.5rem;
+    color: white;
+    border-radius: 12px;
+    align-items: center;
+    justify-content: center; */
+    display: flex;    
+    flex-direction: column;
+    width: 5.5rem;
+    border-radius: 12px;
+    
+}
